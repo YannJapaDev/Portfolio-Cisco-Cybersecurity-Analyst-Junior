@@ -11,7 +11,7 @@ Meu objetivo é usar este espaço como um **portfólio técnico** para demonstra
 ## 🗺️ Minha Jornada de Estudos
 
 - [x] **Introdução à Cibersegurança** (Concluído)
-- [ ] **Networking Basics** (Cursando) <- *Você está aqui*
+- [ ] **Networking Basics** (Cursando) 
 - [ ] **Dispositivos de Rede e Configuração Inicial** (Próximo)
 - [ ] **Segurança de Endpoint** (Próximo)
 - [ ] **Defesa de Rede** (Próximo)
