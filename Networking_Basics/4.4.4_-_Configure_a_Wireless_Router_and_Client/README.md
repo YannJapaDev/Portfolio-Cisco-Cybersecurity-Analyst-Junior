@@ -33,11 +33,11 @@
 | 3 | ![Office Config](Prints/03_Desktop_Office_Configuration.jpg) | Office PC - DHCP enabled |
 | 4 | ![Laptop Config](Prints/04_Laptop_Configuration.jpg) | Laptop - IP via DHCP |
 | 5 | ![Router](Prints/05_Router_Wireless_Configuration.jpg) | Router - SSID "MyHome" |
-| 6 | ![Laptop Connect](Prints/06_Laptop_Wireless_Connection_Successful.jpg) | Laptop connected to Wi-Fi |
+| 6 | ![Laptop Connect](Prints/06_Laptop_Wireless_Connection_Successful.jpg) | Laptop connected to Wi-Fi ✅ |
 | 7 | ![Laptop Status](Prints/07_Laptop_Wireless_Configuration.jpg) | Laptop IP: 192.168.0.3 |
 | 8 | ![Office Test](Prints/08_Desktop_Office_Test_Skillsforall_srv.jpg) | Office PC → skillsforall.srv ✅ |
 | 9 | ![Laptop Test](Prints/09_Laptop_Test_Skillsforall_srv.jpg) | Laptop → skillsforall.srv ✅ |
-| 10 | ![TV](Prints/10_TV_ON.jpg) | TV connected and working |
+| 10 | ![TV](Prints/10_TV_ON.jpg) | TV connected and working ✅ |
 | 11 | ![Activity Completed](Prints/11_Activity_Completed.jpg) | Final check - All items correct ✅ |
 
 ## ✅ Connectivity Tests
