@@ -1,9 +1,9 @@
 # Activity 4.4.4 - Configure a Wireless Router and Client
 
-## 🎯Objectives
-- Part 1: Connect the Devices
-- Part 2: Configure the Wireless Router
-- Part 3: Configure IP Addressing and Test Connectivity
+## 📋 Objectives
+- **Part 1:** Connect the Devices
+- **Part 2:** Configure the Wireless Router  
+- **Part 3:** Configure IP Addressing and Test Connectivity
 
 ## ⚙️ Router Configuration
 
@@ -13,39 +13,35 @@
 | **Security Mode** | `WPA2-Personal` |
 | **Passphrase** | `MyPassPhrase1!` |
 | **DHCP Max Users** | `10` |
-| **Admin Password** | `MyPassword1!` |
 | **Router IP (Gateway)** | `192.168.0.1` |
-| **DNS Server** | `209.165.200.230` |
 
-## 💻 Device IP Addresses (via DHCP)
+## 💻 Device IP Addresses
 
-| Device | IP Address | Status |
-|--------|------------|--------|
-| Office PC | `192.168.0.2` | ✅ Connected |
-| Laptop | `192.168.0.3` | ✅ Connected |
-| Default Gateway | `192.168.0.1` | - |
+| Device | IP Address |
+|--------|------------|
+| Office PC | `192.168.0.2` |
+| Laptop | `192.168.0.3` |
+| Default Gateway | `192.168.0.1` |
 
-## ✅ Connectivity Tests
+## 📸 Screenshots
 
-| Test | Result |
-|------|--------|
-| Office PC → skillsforall.srv | ✅ Successful |
-| Laptop → skillsforall.srv | ✅ Successful |
-| TV Service | ✅ Working |
+| Step | Screenshot | Description |
+|------|------------|-------------|
+| 1 | ![Physical](prints/01_Network_Physical.jpg) | Physical topology |
+| 2 | ![Logical](prints/02_Network_Logical.jpg) | Logical topology |
+| 3 | ![Office Config](prints/03_Desktop_Office_Configuration.jpg) | Office PC DHCP |
+| 4 | ![Laptop Config](prints/04_Laptop_Configuration.jpg) | Laptop IP config |
+| 5 | ![Router](prints/05_Router_Wireless_Configuration.jpg) | Router SSID: MyHome |
+| 6 | ![Laptop Connect](prints/06_Laptop_Wireless_Connection_Successful.jpg) | Laptop connected |
+| 7 | ![Laptop Status](prints/07_Laptop_Wireless_Configuration.jpg) | Laptop IP: 192.168.0.3 |
+| 8 | ![Office Test](prints/08_Desktop_Office_Test_Skillsforall_srv.jpg) | Office → skillsforall |
+| 9 | ![Laptop Test](prints/09_Laptop_Test_Skillsforall_srv.jpg) | Laptop → skillsforall |
+| 10 | ![TV](prints/10_TV_ON.jpg) | TV working |
 
-## 🎯 Status
-
-- [x] **Part 1:** Connect the Devices (coaxial + Ethernet cables)
-- [x] **Part 2:** Configure the Wireless Router (SSID, Security, DHCP)
-- [x] **Part 3:** Configure IP Addressing and Test Connectivity
-
-## 📝 Notes
-
-- DNS Server used: `209.165.200.230`
-- All devices received IP addresses via DHCP from `192.168.0.1`
-- Wireless security: WPA2-Personal with passphrase
-- TV connected via coaxial splitter for video service
+## ✅ Status
+- [x] Part 1: Connect Devices
+- [x] Part 2: Configure Wireless Router
+- [x] Part 3: Test Connectivity
 
 ---
-*Activity completed: April 2026*  
-*Cisco Networking Basics Course*
+*Completed: April 2026*
