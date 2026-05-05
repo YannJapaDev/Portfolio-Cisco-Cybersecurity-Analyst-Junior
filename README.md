@@ -38,4 +38,4 @@ Meu objetivo é usar este espaço como um **portfólio técnico** para demonstra
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/YannJapaDev/Portfolio-Cisco-Cybersecurity-Analyst-Junior.git
+   git clone https://github.com/YannTakiuchi/Portfolio-Cisco-Cybersecurity-Analyst-Junior.git
